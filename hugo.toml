@@ -1,7 +1,9 @@
-baseURL = "https://teaegg.net/"
+baseURL = "https://hawadoh.github.io/urss-blog/"
 languageCode = "en-us"
 title = "URSS Blog"
 theme = "PaperMod"
+relativeURLs = true
+canonifyURLs = false
 
 [params]
   author = "Howard"
