@@ -6,7 +6,7 @@ draft = false
 
 Here's where I explain stuff like $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ in plain language. 
 
-This blog supports inline $\LaTeX$ with KaTeX! You can also do:
+This blog supports inline $\LaTeX$ with `KaTeX`! You can also do:
 $$
 \langle 0 | 1 \rangle = 0
 $$
