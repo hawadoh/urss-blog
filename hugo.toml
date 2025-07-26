@@ -8,7 +8,8 @@ theme = "PaperMod"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
-  math = true  # Enable math globally
+  math = true
+  googleAnalytics = ""
 
 [params.footer]
   copyright = ""
