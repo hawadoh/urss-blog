@@ -1,3 +1,23 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://teaegg.net/"
+languageCode = "en-us"
+title = "URSS Blog"
+theme = "PaperMod"
+
+[params]
+  author = "Howard"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  math = true  # Enable math globally
+
+[params.footer]
+  copyright = ""
+  poweredBy = false
+  customText = ""
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
