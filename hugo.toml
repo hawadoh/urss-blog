@@ -1,6 +1,6 @@
 baseURL = "https://teaegg.net/"
 languageCode = "en-us"
-title = "URSS Blog"
+title = "Ƭᘿᗩ ᘿᘜᘜ"
 theme = "PaperMod"
 
 [params]
@@ -9,12 +9,47 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowPostNavLinks = true
   math = true
-  googleAnalytics = ""
 
-[params.footer]
-  copyright = ""
-  poweredBy = false
-  customText = ""
+  [params.homeInfoParams]
+    Title = "Hi there! 👋"
+    Content = "Welcome to my website! I'm Howard and I'm a CS student interested in quantum computing, AI, and building things that matter."
+
+  [params.footer]
+    copyright = "© 2025 teaegg"
+    poweredBy = false
+    customText = "Built with ♥ by Howard"
+
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/hawadoh/"
+  
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/TheTeaEgg"
+
+  [[params.socialIcons]]
+    name = "discord"
+    url = "https://discord.com/users/435740757635366913"
+
+  [[params.socialIcons]]
+    name = "tidal"
+    url = "https://tidal.com/@howard"
+
+ # [[params.socialIcons]]
+    # name = "spotify"
+    # url = "https://open.spotify.com/user/smdweittifot1ba54g5ve5hsm?si=22a478c8d6504c9c"
+  
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/hawadoh"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/howdcheung"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:howd.cheung@gmail.com"
 
 [menu]
   [[menu.main]]
