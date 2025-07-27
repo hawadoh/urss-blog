@@ -1,6 +1,6 @@
 baseURL = "https://teaegg.net/"
 languageCode = "en-us"
-title = "Ƭᘿᗩ ᘿᘜᘜ"
+title = "𝗧𝗘𝗔•𝗘𝗚𝗚" # collections of thoughts & brew.
 theme = "PaperMod"
 
 # Allow raw HTML in front matter
@@ -19,11 +19,6 @@ theme = "PaperMod"
   [params.homeInfoParams]
     Title = "<span id='greeting'>Hi there! 👋</span>"
     Content = "Welcome to my website! I'm Howard and I'm a CS student interested in quantum computing, AI, and building things that matter."
-
-  [params.footer]
-    copyright = "© 2025 teaegg"
-    poweredBy = false
-    customText = "Built with ♥ by Howard"
 
   [[params.socialIcons]]
     name = "instagram"
