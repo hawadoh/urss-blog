@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "Ƭᘿᗩ ᘿᘜᘜ"
 theme = "PaperMod"
 
+# Allow raw HTML in front matter
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Howard"
   defaultTheme = "auto"
@@ -11,7 +17,7 @@ theme = "PaperMod"
   math = true
 
   [params.homeInfoParams]
-    Title = "Hi there! 👋"
+    Title = "<span id='greeting'>Hi there! 👋</span>"
     Content = "Welcome to my website! I'm Howard and I'm a CS student interested in quantum computing, AI, and building things that matter."
 
   [params.footer]
