@@ -1,11 +1,14 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
   <span>
-    © {{ now.Year }} teaegg ▶︎ •၊၊||၊|။|||| | · Built by Howard 𓆩𓂀𓆪 · Powered by 
+    © {{ now.Year }} teaegg ▶︎ •၊၊||၊|။|||| | · Built by Howard 𓆩𓂀𓆪
+    <span class="only-desktop"> · Powered by 
       <a href="https://gohugo.io">Hugo</a> & 
       <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>
+    </span>
   </span>
 </footer>
+
 {{- end }}
 
 {{- if (not site.Params.disableScrollToTop) }}

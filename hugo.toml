@@ -10,6 +10,9 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   math = true
 
+  [params.assets]
+  customCSS = ["css/custom.css"]
+
   [params.homeInfoParams]
     Title = "Hi there! 👋"
     Content = "Welcome to my website! I'm Howard and I'm a CS student interested in quantum computing, AI, and building things that matter."
