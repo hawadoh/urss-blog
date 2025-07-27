@@ -1,9 +1,9 @@
+/* desktop-only chunk: hide on screens ≤768px */
 .only-desktop {
   display: inline;
 }
-
-@media (max-width: 640px) {
+@media (max-width: 768px) {
   .only-desktop {
-    display: none;
+    display: none !important;
   }
 }
