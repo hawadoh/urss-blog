@@ -10,9 +10,6 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   math = true
 
-  [params.assets]
-  customCSS = ["css/custom.css"]
-
   [params.homeInfoParams]
     Title = "Hi there! 👋"
     Content = "Welcome to my website! I'm Howard and I'm a CS student interested in quantum computing, AI, and building things that matter."
@@ -38,7 +35,7 @@ theme = "PaperMod"
     name = "tidal"
     url = "https://tidal.com/@howard"
 
- # [[params.socialIcons]]
+  # [[params.socialIcons]]
     # name = "spotify"
     # url = "https://open.spotify.com/user/smdweittifot1ba54g5ve5hsm?si=22a478c8d6504c9c"
   

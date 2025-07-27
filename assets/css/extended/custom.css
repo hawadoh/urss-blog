@@ -2,7 +2,7 @@
 .only-desktop {
   display: inline;
 }
-@media (max-width: 768px) {
+@media (max-width: 640px) {
   .only-desktop {
     display: none !important;
   }
