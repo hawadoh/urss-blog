@@ -58,7 +58,19 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    url = "/posts/"
+    identifier = "journal"
+    name = "Journal"
+    url = "/journal/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "aboutme"
+    name = "About Me"
+    url = "/aboutme/"
     weight = 1
