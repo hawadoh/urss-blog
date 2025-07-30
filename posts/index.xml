@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 𝗧𝗘𝗔•𝗘𝗚𝗚</title><link>https://teaegg.net/posts/</link><description>Recent content in Posts on 𝗧𝗘𝗔•𝗘𝗚𝗚</description><generator>Hugo -- 0.148.0</generator><language>en-us</language><lastBuildDate>Sat, 26 Jul 2025 19:45:48 +0100</lastBuildDate><atom:link href="https://teaegg.net/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://teaegg.net/posts/test/</link><pubDate>Sat, 26 Jul 2025 19:45:48 +0100</pubDate><guid>https://teaegg.net/posts/test/</guid><description>&lt;p>Here&amp;rsquo;s where I explain stuff like $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ in &lt;em>plain language&lt;/em>.&lt;/p>
-&lt;p>This blog supports inline $\LaTeX$ with &lt;code>KaTeX&lt;/code>! You can also do:
-$$
-\langle 0 | 1 \rangle = 0
-$$
-which shows math in &lt;strong>display mode&lt;/strong>.&lt;/p></description></item></channel></rss>
