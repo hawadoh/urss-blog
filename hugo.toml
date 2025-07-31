@@ -10,10 +10,11 @@ theme = "PaperMod"
       unsafe = true
 
 [params]
-  author = "Howard"
+  author = "Howard Cheung"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
+  ShowBreadCrumbs = true
   math = true
 
   [params.homeInfoParams]
@@ -61,16 +62,23 @@ theme = "PaperMod"
     identifier = "journal"
     name = "Journal"
     url = "/journal/"
-    weight = 3
+    weight = 1
 
   [[menu.main]]
     identifier = "research"
     name = "Research"
     url = "/research/"
-    weight = 2
+    weight = 1
 
   [[menu.main]]
     identifier = "aboutme"
     name = "About Me"
     url = "/aboutme/"
     weight = 1
+
+  [[menu.main]]
+    identifier = "urss"
+    parent = "research"
+    name = "URSS"
+    url = "/research/urss/"
+    weight = 2

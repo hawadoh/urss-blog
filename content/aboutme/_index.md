@@ -1,3 +1,4 @@
 ---
-title: "About Me"
+title: "🚀 About Me"
+ShowBreadCrumbs: false
 ---

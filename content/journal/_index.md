@@ -1,3 +1,4 @@
 ---
-title: "Journal"
+title: "📝 Journal"
+ShowBreadCrumbs: false
 ---
