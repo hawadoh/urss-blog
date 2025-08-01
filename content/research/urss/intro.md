@@ -54,15 +54,15 @@ As I've come to realise, trying to fully understand the ideas behind quantum cry
 That said, I'll do my best to include clear numerical examples so you don't drown in a sea of Greek letters.
 
 In the next posts, I'll walk through the core building blocks of quantum cryptography, starting from the mathematical and physical foundations and building up to real protocols:
-- Qubits and Measurement: Pure states, superposition, the Hadamard basis, standard basis measurements, post-measurement states, and the no-cloning theorem
-- Quantum Formalism: Mixed states, density matrices, partial trace, POVMs, Kraus operators, and the Bloch sphere
-- Information and Security: Trace distance, fidelity, entropy (Shannon, min-, conditional, smoothed), and the uncertainty principle via guessing games
-- Entanglement and its Power: EPR pairs, Schmidt decomposition, purifications, Bell nonlocality (using the CHSH game), and the monogamy of entanglement
-- Quantum Cryptographic Primitives: Quantum one-time pad and secret sharing
-- Privacy Amplification: Extracting uniform randomness using two-universal hash functions and strong seeded extractors
-- Key Distribution Theory: $\varepsilon$-correctness, $\varepsilon$-secrecy, information reconciliation, and classical authenticated channels (CAC)
-- Quantum Key Distribution Protocols: BB'84 and its purified variant, along with a sketch of their security and correctness proofs
-- `More coming soon :)`
+- Qubits and measurement: Pure states, superposition, the Hadamard basis, standard basis measurements, post-measurement states, and the no-cloning theorem
+- Quantum formalism: Mixed states, density matrices, partial trace, POVMs, Kraus operators, and the Bloch sphere
+- Information and security: Trace distance, fidelity, entropy (Shannon, min-, conditional, smoothed), and the uncertainty principle via guessing games
+- Entanglement and its power: EPR pairs, Schmidt decomposition, purifications, Bell nonlocality (using the CHSH game), and the monogamy of entanglement
+- Quantum cryptographic primitives: Quantum one-time pad (OTP) and secret sharing
+- Privacy amplification: Extracting uniform randomness using two-universal hash functions and strong seeded extractors
+- Key distribution theory: $\varepsilon$-correctness, $\varepsilon$-secrecy, information reconciliation, and classical authenticated channels (CAC)
+- Quantum key distribution protocols: BB'84 and its purified variant, along with a sketch of their security and correctness proofs
+- `More coming soon...`
 
 These posts will be based on Chapters 1 to 8 (excluding Chapter 3) from the textbook *[Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B#overview)*, and my own understanding. I'll aim to make each concept as intuitive and self-contained as possible while gradually building toward more advanced ideas. All credit for the textbook content goes to [Thomas Vidick](https://users.cms.caltech.edu/~vidick/) and [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/), the authors of the textbook.
 
