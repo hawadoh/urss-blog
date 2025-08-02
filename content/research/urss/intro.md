@@ -64,7 +64,7 @@ In the next posts, I'll walk through the core building blocks of quantum cryptog
 - Quantum key distribution protocols: BB'84 and its purified variant, along with a sketch of their security and correctness proofs
 - `More coming soon...`
 
-These posts will be based on Chapters 1 to 8 (excluding Chapter 3) from the textbook *[Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B#overview)*, and my own understanding. I'll aim to make each concept as intuitive and self-contained as possible while gradually building toward more advanced ideas. All credit for the textbook content goes to [Thomas Vidick](https://users.cms.caltech.edu/~vidick/) and [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/), the authors of the textbook.
+These posts will be based on Chapters 1 to 8 (excluding Chapter 3: Quantum Money) from the textbook *[Introduction to Quantum Cryptography](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B#overview)*, and my own understanding. I'll aim to make each concept as intuitive and self-contained as possible while gradually building toward more advanced ideas. All credit for the textbook content goes to [Thomas Vidick](https://users.cms.caltech.edu/~vidick/) and [Stephanie Wehner](https://qutech.nl/person/stephanie-wehner/), the authors of the textbook.
 
 After that, if time allows, I'll also explore how these quantum cryptographic protocols could be applied in real-world systems, using blockchain platforms like Bitcoin and Ethereum as a case study.
 
